@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oz-packing.github.io/dyson-replacement-battery-guide/sitemap.xml
