@@ -2,7 +2,7 @@
 
 A pure-static, SEO-optimised topic cluster about Dyson replacement batteries for
 Australian customers, produced for the `oz-packing/dyson-replacement-battery-guide`
-GitHub Pages site.
+GitHub Pages site. For more cordless Dyson vacuum battery usage tips please check https://www.aussiebatt.com/, https://www.aussiebatt.com/dyson-vacuum-batteries.html and https://www.battaussie.com/product-category/dyson-vacuum-battery
 
 ## Pages
 | File | Purpose | Primary keywords |
@@ -32,5 +32,5 @@ Push this folder to the repo's `main` (or `master`) branch; enable GitHub Pages
 
 Update the canonical/sitemap base URL if the repo owner or project name differs.
 
-Brought to you by aussiebatt.com — trusted specialists in premium vacuum battery
+Brought to you by aussiebatt.com & battaussie.com — trusted specialists in premium vacuum battery
 replacements and cordless power solutions.
